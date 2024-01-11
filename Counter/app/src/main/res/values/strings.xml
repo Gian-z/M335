@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M335</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="reset">Reset counter</string>
+    <string name="persist_key_counter">m335_counter_current</string>
+</resources>
