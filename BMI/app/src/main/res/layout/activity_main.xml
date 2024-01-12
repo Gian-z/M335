@@ -45,7 +45,7 @@
                 android:layout_height="match_parent"
                 android:autofillHints=""
                 android:ems="10"
-                android:inputType="number"
+                android:inputType="numberDecimal"
                 android:minHeight="50dp" />
 
             <TextView
@@ -61,7 +61,7 @@
                 android:layout_height="match_parent"
                 android:autofillHints=""
                 android:ems="10"
-                android:inputType="number"
+                android:inputType="numberDecimal"
                 android:minHeight="50dp" />
         </LinearLayout>
 
